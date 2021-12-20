@@ -11,8 +11,8 @@ I'm a passionate computer science student on a learning curve.
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about Data structures, algorithms and databases
-- 📫 Portfolio: [LinkedIn]()
+- 📫 Portfolio:https://docs.google.com/document/d/1Fj5Bcqu1sZ5bf7Xt_ue20SqR5IWYbMf7puAIlql6pgs/edit?usp=sharing
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I like working  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryavasu0509i&layout=compact&theme=gotham&hide_border=true&langs_count=10)](https://github.com/aishwaryavasu0509)
+
